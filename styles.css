@@ -1,0 +1,43 @@
+.style-blue{
+  color: blue;
+  font-size: 50px;
+}
+
+.style-franklin{
+  color: green;
+  font-size:100px;
+}
+
+.style-minifranklin{
+  color: green;
+  font-size:50px;
+}
+
+.style-onetwothreehahaha{
+  color:red;
+  font-size:68px;
+}
+
+.style-hehehehehe{
+  color:yellow;
+  font-size:30px;
+}
+
+.style-japan{
+  color:white;
+  font-size:45px;
+  padding:30px;
+  border: 30px;
+}
+
+.style-cereal{
+  color:black;
+  font-size: 300px;
+  border:30px;
+}
+
+.style-black{
+  color:black;
+  font-size:50px;
+  display:flex;
+}
